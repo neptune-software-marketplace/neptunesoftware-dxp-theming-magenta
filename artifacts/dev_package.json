@@ -1,0 +1,177 @@
+{
+	"id": "3debe003-b689-4031-8b29-e7dc40663ee2",
+	"createdAt": "2025-12-07T11:47:22.388Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-theming-magenta.git",
+		"branch": "master"
+	},
+	"name": "neptunesoftware-dxp-theming-magenta",
+	"description": null,
+	"ver": "25.12.07.1248",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "0763ff4d-c232-4de0-96d7-4e164e8cfd1f",
+			"name": "neptune-theming-magenta",
+			"description": null
+		}
+	],
+	"theme_generator": [
+		{
+			"id": "240d7159-df8a-4644-91b3-8a8c025cc1d1",
+			"name": "neptune_theming_magenta_light",
+			"description": "Neptune Theming Magenta Light"
+		},
+		{
+			"id": "07c6a3d9-7958-41f1-a4a8-8e9ec435180a",
+			"name": "neptune_theming_magenta_dark",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "f1664c8e-a651-4923-9d98-506682cceecc",
+			"description": null,
+			"name": "neptune-theming-magenta-travel"
+		},
+		{
+			"id": "cecd4015-e623-4eab-87e2-f4d6a5775985",
+			"description": "{i18n.neptuneThemingMagenta>tile.switching.tradeInFour},{i18n.neptuneThemingMagenta>tile.switching.via24MonthlyBill},{i18n.neptuneThemingMagenta>tile.switching.getFullTerms}",
+			"name": "neptune-theming-magenta-iphone17-get4"
+		},
+		{
+			"id": "a58ccb6a-5fb5-43b4-92b9-55f5cd67401c",
+			"description": null,
+			"name": "neptune-theming-magenta-status"
+		},
+		{
+			"id": "9b465059-4c21-40f1-8206-7ec8d9b501d1",
+			"description": "{i18n.neptuneThemingMagenta>tile.switching.getFreeSameDayPhoneDelivery}",
+			"name": "neptune-theming-magenta-switch"
+		},
+		{
+			"id": "86e27f1c-311a-453e-b831-bb653bcc12b8",
+			"description": null,
+			"name": "neptune-theming-magenta-home-internet"
+		},
+		{
+			"id": "697abbdc-c02b-4764-9871-8ad61468a387",
+			"description": null,
+			"name": "neptune-theming-magenta-business"
+		},
+		{
+			"id": "432765ab-18d7-4afa-961b-952632c039e7",
+			"description": "{i18n.neptuneThemingMagenta>tile.switching.noTradeIn},{i18n.neptuneThemingMagenta>tile.switching.via24MonthlyBill},{i18n.neptuneThemingMagenta>tile.switching.getFullTerms}",
+			"name": "neptune-theming-magenta-iphone17-on-us"
+		},
+		{
+			"id": "25c62079-9334-4c82-8690-4eab54fcdc36",
+			"description": null,
+			"name": "neptune-theming-magenta-free-trial"
+		},
+		{
+			"id": "0b9b3109-766b-4752-8d65-863ac78a9a61",
+			"description": null,
+			"name": "neptune-theming-magenta-coverage-map"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "ab99f86d-b34e-413b-89eb-ed00bff96281",
+			"NAME": "neptune-theming-magenta-switching"
+		}
+	],
+	"category": [
+		{
+			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
+			"description": null,
+			"name": "neptune-theming-magenta-switching"
+		},
+		{
+			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
+			"description": null,
+			"name": "neptune-theming-magenta-explore"
+		},
+		{
+			"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
+			"description": null,
+			"name": "neptune-theming-magenta"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "de1d9fe7-bdab-414c-8d64-e85f15a446f7",
+			"NAME": "neptune-theming-magenta-explore"
+		},
+		{
+			"id": "1a5606a8-e825-476e-a1ac-a3f4c4d930e3",
+			"NAME": "neptune-theming-magenta-switching"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "e429d370-ec91-4931-8992-e539cb1187cd",
+			"name": "neptune-theming-magenta",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "415e687f-3ff0-4629-8b12-270cd60b8b6c",
+			"NAME": "neptune-theming-magenta-dark",
+			"DESCR": null
+		},
+		{
+			"id": "184d81af-2105-4910-8212-39915007ab4f",
+			"NAME": "neptune-theming-magenta-light",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "b82c792e-423a-4f54-93a3-26f106fbf252",
+			"name": "neptuneThemingMagenta",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
+}
