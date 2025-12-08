@@ -1,12 +1,12 @@
 {
-	"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
-	"createdAt": "2025-12-07T15:50:45.623Z",
+	"id": "2ec63696-4ff2-4ca8-8a06-fe039a8880f2",
+	"createdAt": "2025-12-08T08:48:38.502Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
-		"f2479581-aca0-48a0-ac01-034b45a5b353",
-		"aaf524c2-b581-4a65-addd-9d44a76b5bc8"
+		"6c631856-36bf-45a9-88e6-58c7451e38cc",
+		"cd4d62a7-e611-4b06-a7bf-a3e5e16b45ad"
 	],
 	"configMessage": {},
 	"navbarGroupOrder": [],
@@ -30,7 +30,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.07.1724",
+	"ver": "25.12.08.0948",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -44,7 +44,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "neptune-theming-magenta",
+	"name": "neptune-theming-bare",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -100,22 +100,10 @@
 	"tiles": [],
 	"tilegroups": [
 		{
-			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
-			"name": "neptune-theming-magenta-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.07.2002"
-		},
-		{
 			"id": "cd4d62a7-e611-4b06-a7bf-a3e5e16b45ad",
 			"name": "neptune-theming-bare-explore",
 			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
 			"ver": "25.12.08.0947"
-		},
-		{
-			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
-			"name": "neptune-theming-magenta-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.07.1650"
 		},
 		{
 			"id": "6c631856-36bf-45a9-88e6-58c7451e38cc",

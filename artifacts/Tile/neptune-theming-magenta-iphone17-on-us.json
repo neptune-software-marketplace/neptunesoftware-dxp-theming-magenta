@@ -83,10 +83,10 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.12.07.1709",
+	"ver": "25.12.08.0954",
 	"actionWebApp": "",
 	"name": "neptune-theming-magenta-iphone17-on-us",
-	"cardWidth": "Wide",
+	"cardWidth": "",
 	"cardHeight": null,
 	"cardHeightFit": false,
 	"cardImage": null,
@@ -114,7 +114,12 @@
 	"FIORI_STYLE": null,
 	"package": "3debe003-b689-4031-8b29-e7dc40663ee2",
 	"roles": [],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "c5731345-4545-4ca5-9dd6-5358b532defa",
+			"ver": "25.12.08.0954"
+		}
+	],
 	"darkTileLayouts": [],
 	"i18n": [
 		{

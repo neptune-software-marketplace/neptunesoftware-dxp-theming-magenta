@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-theming-magenta",
 	"description": null,
-	"ver": "25.12.07.1248",
+	"ver": "25.12.07.2003",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -94,6 +94,14 @@
 	],
 	"tile_layout": [
 		{
+			"id": "e125a4f7-74ac-4d83-ab64-96de59f05222",
+			"NAME": "neptune-theming-magenta-small"
+		},
+		{
+			"id": "c5731345-4545-4ca5-9dd6-5358b532defa",
+			"NAME": "neptune-theming-magenta-wide"
+		},
+		{
 			"id": "ab99f86d-b34e-413b-89eb-ed00bff96281",
 			"NAME": "neptune-theming-magenta-switching"
 		}
@@ -105,9 +113,24 @@
 			"name": "neptune-theming-magenta-switching"
 		},
 		{
+			"id": "cd4d62a7-e611-4b06-a7bf-a3e5e16b45ad",
+			"description": null,
+			"name": "neptune-theming-bare-explore"
+		},
+		{
 			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
 			"description": null,
 			"name": "neptune-theming-magenta-explore"
+		},
+		{
+			"id": "6c631856-36bf-45a9-88e6-58c7451e38cc",
+			"description": null,
+			"name": "neptune-theming-bare-switching"
+		},
+		{
+			"id": "2ec63696-4ff2-4ca8-8a06-fe039a8880f2",
+			"description": null,
+			"name": "neptune-theming-bare"
 		},
 		{
 			"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
@@ -130,12 +153,22 @@
 			"id": "e429d370-ec91-4931-8992-e539cb1187cd",
 			"name": "neptune-theming-magenta",
 			"description": null
+		},
+		{
+			"id": "ba31422b-a1cb-47be-b553-f8596dbc01b4",
+			"name": "neptune-theming-bare",
+			"description": null
 		}
 	],
 	"launchpad_layout": [
 		{
 			"id": "415e687f-3ff0-4629-8b12-270cd60b8b6c",
 			"NAME": "neptune-theming-magenta-dark",
+			"DESCR": null
+		},
+		{
+			"id": "35c5f241-82f4-4a1b-b4ba-31fd6d99d5a2",
+			"NAME": "neptune-theming-base-light",
 			"DESCR": null
 		},
 		{

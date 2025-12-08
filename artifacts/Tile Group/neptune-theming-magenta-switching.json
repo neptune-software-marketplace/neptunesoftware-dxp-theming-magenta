@@ -113,19 +113,19 @@
 			"id": "cecd4015-e623-4eab-87e2-f4d6a5775985",
 			"name": "neptune-theming-magenta-iphone17-get4",
 			"title": "{i18n.neptuneThemingMagenta>tile.switching.apple}",
-			"ver": "25.12.07.1955"
+			"ver": "25.12.08.0953"
 		},
 		{
 			"id": "9b465059-4c21-40f1-8206-7ec8d9b501d1",
 			"name": "neptune-theming-magenta-switch",
 			"title": "{i18n.neptuneThemingMagenta>tile.switching.switchIn15Min}",
-			"ver": "25.12.07.1956"
+			"ver": "25.12.08.0953"
 		},
 		{
 			"id": "432765ab-18d7-4afa-961b-952632c039e7",
 			"name": "neptune-theming-magenta-iphone17-on-us",
 			"title": "{i18n.neptuneThemingMagenta>tile.switching.apple}",
-			"ver": "25.12.07.1709"
+			"ver": "25.12.08.0954"
 		}
 	],
 	"tilegroups": [],

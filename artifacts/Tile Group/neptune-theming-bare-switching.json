@@ -1,22 +1,23 @@
 {
-	"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
-	"createdAt": "2025-12-07T15:50:45.623Z",
+	"id": "6c631856-36bf-45a9-88e6-58c7451e38cc",
+	"createdAt": "2025-12-08T08:48:11.728Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
-	"tilesOrder": [],
-	"tilegroupsOrder": [
-		"f2479581-aca0-48a0-ac01-034b45a5b353",
-		"aaf524c2-b581-4a65-addd-9d44a76b5bc8"
+	"tilesOrder": [
+		"432765ab-18d7-4afa-961b-952632c039e7",
+		"cecd4015-e623-4eab-87e2-f4d6a5775985",
+		"9b465059-4c21-40f1-8206-7ec8d9b501d1"
 	],
+	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "",
-	"subTitle": null,
-	"menuText": "{i18n.neptuneThemingMagenta>neptunePhone}",
+	"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
+	"subTitle": "{i18n.neptuneThemingMagenta>group.switching.subTitle}",
+	"menuText": "{i18n.neptuneThemingMagenta>group.switching.menuText}",
 	"description": null,
 	"enableFullScreen": false,
-	"hideHeader": true,
+	"hideHeader": false,
 	"backgroundType": "cards",
 	"backgroundColor": "",
 	"backgroundShade": null,
@@ -30,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.07.1724",
+	"ver": "25.12.08.0955",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -44,7 +45,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "neptune-theming-magenta",
+	"name": "neptune-theming-bare-switching",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -95,35 +96,34 @@
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
-	"tiles": [],
-	"tilegroups": [
+	"lightTileLayouts": [
 		{
-			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
-			"name": "neptune-theming-magenta-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.07.2002"
-		},
-		{
-			"id": "cd4d62a7-e611-4b06-a7bf-a3e5e16b45ad",
-			"name": "neptune-theming-bare-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.08.0947"
-		},
-		{
-			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
-			"name": "neptune-theming-magenta-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.07.1650"
-		},
-		{
-			"id": "6c631856-36bf-45a9-88e6-58c7451e38cc",
-			"name": "neptune-theming-bare-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
+			"id": "e125a4f7-74ac-4d83-ab64-96de59f05222",
 			"ver": "25.12.08.0955"
 		}
 	],
+	"darkTileLayouts": [],
+	"tiles": [
+		{
+			"id": "cecd4015-e623-4eab-87e2-f4d6a5775985",
+			"name": "neptune-theming-magenta-iphone17-get4",
+			"title": "{i18n.neptuneThemingMagenta>tile.switching.apple}",
+			"ver": "25.12.08.0953"
+		},
+		{
+			"id": "9b465059-4c21-40f1-8206-7ec8d9b501d1",
+			"name": "neptune-theming-magenta-switch",
+			"title": "{i18n.neptuneThemingMagenta>tile.switching.switchIn15Min}",
+			"ver": "25.12.08.0953"
+		},
+		{
+			"id": "432765ab-18d7-4afa-961b-952632c039e7",
+			"name": "neptune-theming-magenta-iphone17-on-us",
+			"title": "{i18n.neptuneThemingMagenta>tile.switching.apple}",
+			"ver": "25.12.08.0954"
+		}
+	],
+	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": [
