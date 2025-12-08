@@ -4,7 +4,10 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [],
-	"tilegroupsOrder": [],
+	"tilegroupsOrder": [
+		"f2479581-aca0-48a0-ac01-034b45a5b353",
+		"aaf524c2-b581-4a65-addd-9d44a76b5bc8"
+	],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
@@ -27,7 +30,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.08.1441",
+	"ver": "25.12.08.1445",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -95,7 +98,20 @@
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [],
-	"tilegroups": [],
+	"tilegroups": [
+		{
+			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
+			"name": "neptune-theming-magenta-switching",
+			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
+			"ver": "25.12.08.1441"
+		},
+		{
+			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
+			"name": "neptune-theming-magenta-explore",
+			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
+			"ver": "25.12.08.1444"
+		}
+	],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": [

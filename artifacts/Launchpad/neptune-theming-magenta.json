@@ -4,7 +4,9 @@
 	"createdBy": "morten@neptune-software.com",
 	"extUserRoles": [],
 	"extUserDepartments": [],
-	"catOrder": [],
+	"catOrder": [
+		"27d135fc-ad44-4711-aeb4-8c1cd3e7e25c"
+	],
 	"layout": [],
 	"config": {
 		"showAccessibilityFocusIndicator": true,
@@ -23,7 +25,7 @@
 	"enhancement": [],
 	"name": "neptune-theming-magenta",
 	"title": "{i18n.neptuneThemingMagenta>launchpadTitle}",
-	"description": "Magenta Theming X1",
+	"description": "Magenta Theming",
 	"startApp": null,
 	"launchpadFooter": null,
 	"startWebApp": null,
@@ -55,7 +57,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.12.08.1441",
+	"ver": "25.12.08.1446",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -73,7 +75,14 @@
 	"noSubmenuHover": false,
 	"package": "3debe003-b689-4031-8b29-e7dc40663ee2",
 	"agentId": null,
-	"cat": [],
+	"cat": [
+		{
+			"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
+			"name": "neptune-theming-magenta",
+			"title": "",
+			"ver": "25.12.08.1445"
+		}
+	],
 	"roles": [],
 	"i18n": [
 		{
