@@ -27,7 +27,7 @@
 	"enhancement": [],
 	"name": "neptune-theming-magenta",
 	"title": "{i18n.neptuneThemingMagenta>launchpadTitle}",
-	"description": null,
+	"description": "Magenta Theming",
 	"startApp": null,
 	"launchpadFooter": null,
 	"startWebApp": null,
@@ -59,7 +59,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.12.08.1424",
+	"ver": "25.12.08.1436",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -82,7 +82,7 @@
 			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
 			"name": "neptune-theming-magenta-switching",
 			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.08.1428"
+			"ver": "25.12.08.1436"
 		},
 		{
 			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
