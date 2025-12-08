@@ -34,7 +34,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.08.1441",
+	"ver": "25.12.08.1444",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -106,8 +106,8 @@
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
 		{
-			"id": "bea5d553-b099-4174-957e-b7164f595cf3",
-			"ver": "25.12.06.1133"
+			"id": "9d3707ae-8e5a-48b9-903f-feeb6a24397c",
+			"ver": "25.12.08.1444"
 		}
 	],
 	"darkTileLayouts": [],
