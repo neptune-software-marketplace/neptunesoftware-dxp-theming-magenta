@@ -4,11 +4,7 @@
 	"createdBy": "morten@neptune-software.com",
 	"extUserRoles": [],
 	"extUserDepartments": [],
-	"catOrder": [
-		"27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
-		"f2479581-aca0-48a0-ac01-034b45a5b353",
-		"aaf524c2-b581-4a65-addd-9d44a76b5bc8"
-	],
+	"catOrder": [],
 	"layout": [],
 	"config": {
 		"showAccessibilityFocusIndicator": true,
@@ -27,7 +23,7 @@
 	"enhancement": [],
 	"name": "neptune-theming-magenta",
 	"title": "{i18n.neptuneThemingMagenta>launchpadTitle}",
-	"description": "Magenta Theming",
+	"description": "Magenta Theming X1",
 	"startApp": null,
 	"launchpadFooter": null,
 	"startWebApp": null,
@@ -59,7 +55,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.12.08.1436",
+	"ver": "25.12.08.1441",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -77,26 +73,7 @@
 	"noSubmenuHover": false,
 	"package": "3debe003-b689-4031-8b29-e7dc40663ee2",
 	"agentId": null,
-	"cat": [
-		{
-			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
-			"name": "neptune-theming-magenta-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.08.1436"
-		},
-		{
-			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
-			"name": "neptune-theming-magenta-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.07.1650"
-		},
-		{
-			"id": "27d135fc-ad44-4711-aeb4-8c1cd3e7e25c",
-			"name": "neptune-theming-magenta",
-			"title": "",
-			"ver": "25.12.07.1724"
-		}
-	],
+	"cat": [],
 	"roles": [],
 	"i18n": [
 		{

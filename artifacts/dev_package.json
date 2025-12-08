@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-theming-magenta",
 	"description": null,
-	"ver": "25.12.08.1430",
+	"ver": "25.12.08.1437",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -152,7 +152,7 @@
 		{
 			"id": "e429d370-ec91-4931-8992-e539cb1187cd",
 			"name": "neptune-theming-magenta",
-			"description": "Magenta Theming"
+			"description": "Magenta Theming X1"
 		},
 		{
 			"id": "ba31422b-a1cb-47be-b553-f8596dbc01b4",

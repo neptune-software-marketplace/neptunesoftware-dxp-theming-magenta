@@ -4,10 +4,7 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [],
-	"tilegroupsOrder": [
-		"f2479581-aca0-48a0-ac01-034b45a5b353",
-		"aaf524c2-b581-4a65-addd-9d44a76b5bc8"
-	],
+	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
@@ -30,7 +27,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.07.1724",
+	"ver": "25.12.08.1441",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -60,7 +57,7 @@
 	"imageMobileRepeat": null,
 	"imageMobileSize": null,
 	"hideFromMenu": false,
-	"roleTag": null,
+	"roleTag": "X1",
 	"cockpitTileGroup": false,
 	"package": "3debe003-b689-4031-8b29-e7dc40663ee2",
 	"openClickTile": false,
@@ -98,32 +95,7 @@
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [],
-	"tilegroups": [
-		{
-			"id": "f2479581-aca0-48a0-ac01-034b45a5b353",
-			"name": "neptune-theming-magenta-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.08.1436"
-		},
-		{
-			"id": "cd4d62a7-e611-4b06-a7bf-a3e5e16b45ad",
-			"name": "neptune-theming-bare-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.08.0947"
-		},
-		{
-			"id": "aaf524c2-b581-4a65-addd-9d44a76b5bc8",
-			"name": "neptune-theming-magenta-explore",
-			"title": "{i18n.neptuneThemingMagenta>group.explore.title}",
-			"ver": "25.12.07.1650"
-		},
-		{
-			"id": "6c631856-36bf-45a9-88e6-58c7451e38cc",
-			"name": "neptune-theming-bare-switching",
-			"title": "{i18n.neptuneThemingMagenta>group.switching.title}",
-			"ver": "25.12.08.0955"
-		}
-	],
+	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": [
