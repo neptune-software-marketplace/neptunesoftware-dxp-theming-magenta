@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-theming-magenta",
 	"description": null,
-	"ver": "25.12.08.1445",
+	"ver": "25.12.12.1831",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -75,6 +75,11 @@
 			"id": "697abbdc-c02b-4764-9871-8ad61468a387",
 			"description": null,
 			"name": "neptune-theming-magenta-business"
+		},
+		{
+			"id": "56b7d86b-29b4-443e-863c-6fecd3aa0a58",
+			"description": "{i18n.neptuneThemingMagenta>tile.switching.noTradeIn},{i18n.neptuneThemingMagenta>tile.switching.via24MonthlyBill},{i18n.neptuneThemingMagenta>tile.switching.getFullTerms}",
+			"name": "neptune-theming-bare-iphone17-on-us"
 		},
 		{
 			"id": "432765ab-18d7-4afa-961b-952632c039e7",
@@ -168,11 +173,6 @@
 		{
 			"id": "415e687f-3ff0-4629-8b12-270cd60b8b6c",
 			"NAME": "neptune-theming-magenta-dark",
-			"DESCR": null
-		},
-		{
-			"id": "35c5f241-82f4-4a1b-b4ba-31fd6d99d5a2",
-			"NAME": "neptune-theming-base-light",
 			"DESCR": null
 		},
 		{

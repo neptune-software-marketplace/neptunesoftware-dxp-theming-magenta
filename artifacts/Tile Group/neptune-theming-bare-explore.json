@@ -34,7 +34,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.12.08.0947",
+	"ver": "25.12.10.2248",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -50,8 +50,8 @@
 	"imageHeight": null,
 	"name": "neptune-theming-bare-explore",
 	"cardContentWidth": "",
-	"cardContentAlign": null,
-	"cardPerRow": null,
+	"cardContentAlign": "",
+	"cardPerRow": "",
 	"cardStyle": null,
 	"cardHeightFit": false,
 	"imagePlacement": null,
@@ -136,7 +136,7 @@
 			"id": "0b9b3109-766b-4752-8d65-863ac78a9a61",
 			"name": "neptune-theming-magenta-coverage-map",
 			"title": "{i18n.neptuneThemingMagenta>tile.explore.coverageMap}",
-			"ver": "25.12.07.1944"
+			"ver": "25.12.10.2246"
 		}
 	],
 	"tilegroups": [],
